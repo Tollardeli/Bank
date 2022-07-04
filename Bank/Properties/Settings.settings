@@ -1,0 +1,29 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Bank.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="БанкConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=desktop-qpt6dt7\mssqlserver01;Initial Catalog=Банк;Integrated Security=True&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=desktop-qpt6dt7\mssqlserver01;Initial Catalog=Банк;Integrated Security=True</Value>
+    </Setting>
+    <Setting Name="button" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">0, 174, 219</Value>
+    </Setting>
+    <Setting Name="button1" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Century Gothic, 11.25pt</Value>
+    </Setting>
+    <Setting Name="button2" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="button3" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="button4" Type="System.Windows.Forms.FlatStyle" Scope="User">
+      <Value Profile="(Default)">Flat</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
